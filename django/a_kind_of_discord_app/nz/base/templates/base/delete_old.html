@@ -1,0 +1,12 @@
+{% extends 'main.html' %}
+
+{% block content %}
+
+<form method="POST" action="">
+    {% csrf_token %}
+    <p>siguren li si che iskash da iztries "{{ obj }}" tapak?</p>
+    <a href="{{request.META.HTTP_REFER}}">go back</a>
+    <input type="submit" value="Confirm">
+</form>
+
+{% endblock content %}
