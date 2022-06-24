@@ -64,6 +64,6 @@ This app just shows air quality depending on entered zip code
 <br/>
 
 ## Code for finding number of available junior jobs at dev.bg
-This code is fore finding python, java and js junior jobs
+This code is for finding python, java and js junior jobs
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/99525124/169701776-a931f92e-1931-429f-a2a8-0d545ea6a2c1.png)
